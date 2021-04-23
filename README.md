@@ -2,7 +2,7 @@
 
 I am a Computer Engineering student from Turkey. [ENG & TR] 
 
-Also, I am Lead Organizer of [GDG Çanakkale](https://www.instagram.com/gdgcanakkale/) and Ambassador of [WTM Çanakkale](https://www.instagram.com/wtmcanakkale/) You can join our [Discord Server.](https://discord.gg/gwzcBVZJXT)
+Also, I am Lead Organizer of [GDG Çanakkale](https://www.instagram.com/gdgcanakkale/) and Ambassador of [WTM Çanakkale.](https://www.instagram.com/wtmcanakkale/) You can join our [Discord Server.](https://discord.gg/gwzcBVZJXT)
                                                                            
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 - 🔭 I’m currently working on school assignments and personal projects in private repos...
