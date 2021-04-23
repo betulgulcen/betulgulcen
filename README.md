@@ -15,3 +15,4 @@ I am a Computer Engineering student from Turkey. [ENG & TR]
 [![Twitter: BetulGulcen](https://img.shields.io/twitter/follow/BetulGulcen?style=social)](https://twitter.com/BetulGulcen)
 [![Linkedin: betulgulcen](https://img.shields.io/badge/-betulgulcen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/betulgulcen/)](https://www.linkedin.com/in/betulgulcen/)
 [![GitHub betulgulcen](https://img.shields.io/github/followers/betulgulcen?label=follow&style=social)](https://github.com/betulgulcen)
+[linkedin]: https://www.linkedin.com/in/betulgulcen/
