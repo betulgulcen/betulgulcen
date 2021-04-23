@@ -15,5 +15,5 @@ Also, I am Lead Organizer of [GDG Çanakkale](https://www.instagram.com/gdgcanak
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 [![Twitter: BetulGulcen](https://img.shields.io/twitter/follow/BetulGulcen?style=social)](https://twitter.com/BetulGulcen)
-[![Linkedin: betulgulcen](https://img.shields.io/badge/-betulgulcen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/betulgulcen/)
-[![GitHub betulgulcen](https://img.shields.io/github/followers/betulgulcen?label=follow&style=social)(https://github.com/betulgulcen)
+![Linkedin: betulgulcen](https://img.shields.io/badge/-betulgulcen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/betulgulcen/)
+[![GitHub betulgulcen](https://img.shields.io/github/followers/betulgulcen?label=follow&style=social)](https://github.com/betulgulcen)
