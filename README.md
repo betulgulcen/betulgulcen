@@ -16,4 +16,4 @@ Also, I am Lead Organizer of [GDG Çanakkale](https://www.instagram.com/gdgcanak
 
 [![Twitter: BetulGulcen](https://img.shields.io/twitter/follow/BetulGulcen?style=social)](https://twitter.com/BetulGulcen)
 [![Linkedin: betulgulcen](https://img.shields.io/badge/-betulgulcen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/betulgulcen/)
-[![GitHub betulgulcen](https://img.shields.io/github/followers/betulgulcen?label=follow&style=social)](https://github.com/betulgulcen)
+[![GitHub betulgulcen](https://img.shields.io/github/followers/betulgulcen?label=follow&style=social)(https://github.com/betulgulcen)
