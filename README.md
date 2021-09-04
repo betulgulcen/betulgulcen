@@ -6,7 +6,7 @@ Also, I am Lead Organizer of [GDG Çanakkale](https://www.instagram.com/gdgcanak
                                                                            
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 - 🔭 I’m currently working on school assignments and personal projects in private repos...
-- 🌱 I’m currently learning C and Flutter!
+- 🌱 I’m currently a project manager @ Nara EdTech
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📫 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/betulgulcen/) or [Discord](https://discord.gg/gwzcBVZJXT)
 - 🧗 I try to: Go beyond and push the bounds!!
